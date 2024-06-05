@@ -36,6 +36,6 @@ Our organization is comprised of:
 * All our projects are licensed under the MIT License. See the LICENSE file in each repository for more details.
 
 # 📬 Contact
-* For any questions or support, feel free to open an issue on the respective repository or contact us directly at contact@inborastudio.com. (Replace with actual email)
+* For any questions or support, feel free to open an issue on the respective repository or contact us directly at Drchamyoung@gmail.com, Studio.inbora@gmail.com
 
 Thank you for being a part of Inbora Studio! Together, we can push the boundaries of AI development and make a positive impact on the world.
