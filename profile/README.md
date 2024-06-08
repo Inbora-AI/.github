@@ -1,3 +1,30 @@
+<br>
+<pre align="center">
+___          ________           ________          ________          ________          ________          ________  ___     
+|\  \        |\   ___  \        |\   __  \        |\   __  \        |\   __  \        |\   __  \        |\   __  \|\  \    
+\ \  \       \ \  \\ \  \       \ \  \|\ /_       \ \  \|\  \       \ \  \|\  \       \ \  \|\  \       \ \  \|\  \ \  \   
+ \ \  \       \ \  \\ \  \       \ \   __  \       \ \  \\\  \       \ \   _  _\       \ \   __  \       \ \   __  \ \  \  
+  \ \  \       \ \  \\ \  \       \ \  \|\  \       \ \  \\\  \       \ \  \\  \|       \ \  \ \  \       \ \  \ \  \ \  \ 
+   \ \__\       \ \__\\ \__\       \ \_______\       \ \_______\       \ \__\\ _\        \ \__\ \__\       \ \__\ \__\ \__\
+    \|__|        \|__| \|__|        \|_______|        \|_______|        \|__|\|__|        \|__|\|__|        \|__|\|__|\|__|
+
+
+ <h3>Run LLMs on your computer.</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Inbora Studio - Open Source AI Development
 Welcome to Inbora Studio! We are a collaborative group of passionate AI developers, including students and professionals working part-time, dedicated to creating open-source, free-to-use algorithms, neural networks, and training models. Our mission is to contribute to the AI community by providing accessible and cutting-edge tools for developers worldwide.
